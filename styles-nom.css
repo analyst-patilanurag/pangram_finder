@@ -1,0 +1,21 @@
+<style>
+    .tile-container {
+        display: flex;
+        flex-wrap: wrap; /* Allows items to wrap onto the next line */
+        gap: 10px; /* Creates space between tiles */
+        padding: 10px; /* Adds space inside the container */
+    }
+    .tile {
+        background-color: #d0eaff; /* Light blue background for tiles */
+        border: 2px solid #2196F3; /* Blue border around each tile */
+        border-radius: 10px; /* Rounded corners for tiles */
+        padding: 10px; /* Space inside each tile */
+        text-align: center; /* Centers the text in the middle of the tile */
+        text-align: middle; /* Vertical centering */
+        font-size: 18px; /* Increases font size for readability */
+        font-weight: bold; /* Makes the text bold */
+        flex: 1 1 100px; /* Flexbox behavior: tiles take up a minimum of 100px */
+        max-width: 150px; /* Limits the maximum width of each tile */
+        height: 50px; /* Set the height you prefer */
+    }
+</style>
