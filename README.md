@@ -23,9 +23,6 @@ This Streamlit application is designed to help users find pangrams and valid wor
 
 3. **Pangram Detection:**
    - The app checks for words that contain all 6 adjacent letters and the center letter (pangrams).
-   
-4. **Results Display:**
-   - Valid words and pangrams are displayed as clickable tiles in a visually appealing layout using CSS flexbox.
 
 ## Installation
 
