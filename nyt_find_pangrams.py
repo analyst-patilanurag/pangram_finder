@@ -64,6 +64,7 @@ def main():
             text-align: middle;
             font-size: 16px;
             font-weight: bold;
+            color: white;
             flex: 1 1 100px;
             max-width: 150px;
             height: 45px;

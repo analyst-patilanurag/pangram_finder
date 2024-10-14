@@ -14,6 +14,7 @@
         text-align: middle; /* Vertical centering */
         font-size: 18px; /* Increases font size for readability */
         font-weight: bold; /* Makes the text bold */
+        color: white; /* Set the font color to white */
         flex: 1 1 100px; /* Flexbox behavior: tiles take up a minimum of 100px */
         max-width: 150px; /* Limits the maximum width of each tile */
         height: 50px; /* Set the height you prefer */
